@@ -1,0 +1,187 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Plumba v1.1.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2012-10-20 18:44:52+0000\n"
+"Last-Translator: plumba <plumba@flowcom.se>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-Language: Swedish\n"
+"X-Poedit-Country: SWEDEN\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: classes/ajax.php:33
+#@ plumba
+msgid "Thank you!"
+msgstr "Tack!"
+
+#: classes/comments.php:70
+#@ plumba
+msgid "Blue"
+msgstr "Blå"
+
+#: classes/comments.php:71
+#@ plumba
+msgid "Green"
+msgstr "Grön"
+
+#: classes/comments.php:72
+#@ plumba
+msgid "Yellow"
+msgstr "Gul"
+
+#: classes/comments.php:73
+#@ plumba
+msgid "Red"
+msgstr "Röd"
+
+#: classes/comments.php:74
+#@ plumba
+msgid "Cyan"
+msgstr "Cyan"
+
+#: classes/comments.php:75
+#@ plumba
+msgid "Black"
+msgstr "Svart"
+
+#: classes/metabox.php:17
+#@ plumba
+msgid "Questions"
+msgstr "Frågor"
+
+#: classes/metabox.php:18
+#@ plumba
+msgid "Answers"
+msgstr "Svar"
+
+#: classes/metabox.php:46
+#@ plumba
+msgid "Add"
+msgstr "Lägg till"
+
+#: classes/metabox.php:48
+#@ plumba
+msgid "Remove"
+msgstr "Ta bort"
+
+#: classes/metabox.php:50
+#@ plumba
+msgid "Reset"
+msgstr "Nollställ"
+
+#: classes/presentation.php:81
+#: classes/presentation.php:84
+#@ plumba
+msgid "votes"
+msgstr "röster"
+
+#: classes/options.php:31
+#@ plumba
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Du har inte behörighet att komma åt denna sida."
+
+#: classes/options.php:50
+#@ plumba
+msgid "Include Twitter Bootstrap"
+msgstr "Inkludera Twitter Bootstrap"
+
+#: classes/options.php:52
+#@ plumba
+msgid "If your theme doen't have Twitter Bootstrap included this plugin will attach missing files"
+msgstr "Om ditt tema inte har Twitter Bootstrap kommer dessa att tillföras av plugin"
+
+#: classes/options.php:56
+#@ plumba
+msgid "Ajax update interval in seconds"
+msgstr "Uppdateringsintervall via ajax i sekunder"
+
+#: classes/options.php:66
+#@ plumba
+msgid "Save settings"
+msgstr "Spara inställningar"
+
+#: classes/shortcodes.php:35
+#@ plumba
+msgid "Add Plumba Poll"
+msgstr "Lägg till Plumba-frågor"
+
+#: classes/shortcodes.php:47
+#@ plumba
+msgid "Choose a plumba post to insert into post!"
+msgstr "Välj en Plumba-fråga att lägga in i posten!"
+
+#: classes/shortcodes.php:86
+#@ plumba
+msgid "Insert"
+msgstr "Lägg till"
+
+#: classes/shortcodes.php:88
+#@ plumba
+msgid "Cancel"
+msgstr "Avbryt"
+
+#: classes/ajax.php:25
+#@ plumba
+msgid "Thanks but double votes not allowed!"
+msgstr "Tack men dubbelröstning inte tillåtet!"
+
+#: classes/comments.php:106
+#@ plumba
+msgid "Buttons & Bars"
+msgstr "Knappar och staplar"
+
+#: classes/comments.php:107
+#@ plumba
+msgid "Radio"
+msgstr "Radioknappar"
+
+#: classes/shortcodes.php:69
+#@ plumba
+msgid "Style"
+msgstr "Stil"
+
+#: classes/shortcodes.php:76
+#@ plumba
+msgid "Disable bars?"
+msgstr "Visa inte staplar?"
+
+#: classes/options.php:57
+#@ plumba
+msgid "( 0 = disabled )"
+msgstr "( 0 = avstängd )"
+
+#: classes/options.php:61
+#@ plumba
+msgid "Add user cookie for x minutes"
+msgstr "Lägg till cookie för användare i x minuter"
+
+#: classes/options.php:62
+#@ plumba
+msgid "( 0 = no cookies )"
+msgstr "( 0 = ingen cookie )"
+
+#: classes/shortcodes.php:80
+#@ plumba
+msgid "Show \"thank you\"-messages?"
+msgstr "Visa \"tack\"-meddelanden?"
+
+#: classes/metabox.php:16
+#@ plumba
+msgid "Properties"
+msgstr "Egenskaper"
+
+#: classes/metabox.php:116
+#@ plumba
+msgid "Introduction text"
+msgstr "Introduktionstext"
+
